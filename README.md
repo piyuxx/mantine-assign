@@ -1,5 +1,5 @@
 Crop Statistics Table with Mantine
-This project demonstrates how to create a statistics table for crop data using the Mantine library in a React application. The table displays average yield and average cultivation area statistics for different crops between 1950 and 2020.
+This project demonstrates how to create a statistics table for crop data using the Mantine library in a React application.  The table displays minimum and avergaecrop production, average yield and average cultivation area statistics for different crops between 1950 and 2020.
 
 Table of Contents
 Installation

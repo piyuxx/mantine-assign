@@ -10,11 +10,17 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your/repository.git
+https://github.com/piyuxx/mantine-assign.git
+
+
 Navigate into the project directory:
 cd project-directory
+
+
 Install dependencies:
 npm install
+
+
 Start the development server:
 npm run dev
 

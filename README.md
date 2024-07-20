@@ -1,5 +1,3 @@
-# Mantine Vite template
+![image](https://github.com/user-attachments/assets/82d8a188-1b52-47cc-adab-2dc1ba76c0c2)
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/vite/)
+![image](https://github.com/user-attachments/assets/4e34d943-c512-445b-acb4-977d0bd69447)
